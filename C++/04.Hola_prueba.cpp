@@ -1,6 +1,6 @@
 #include<iostream>
 int main (){
-    // Definición de variables
+    // DefiniciÃ³n de variables
     char salir;
     char respuesta;
     std::cout <<"Hola mundo, mi primer programa \n ";
