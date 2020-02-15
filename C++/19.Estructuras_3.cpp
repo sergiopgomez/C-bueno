@@ -31,7 +31,7 @@ int main (){
     cin >> imaginario.dinero1;
     
     //Recupero los datos de mi amigo imaginario
-    cout << "\nMi amigo imaginario es mi amigo numero " << imaginario.n_amigo1; //añadir variable que elija la moneda que quieras
+    cout << "\nMi amigo imaginario es mi amigo numero " << imaginario.n_amigo1; //aÃ±adir variable que elija la moneda que quieras
     cout << "\nMi amigo imaginario tiene " << imaginario.dinero1 << " euros"; 
     
     cin >> salir;
