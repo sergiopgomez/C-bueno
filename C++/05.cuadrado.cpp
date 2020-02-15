@@ -1,5 +1,5 @@
 #include<iostream>
-/*vamos a hacer un programa que dibuje un bello cuadrado del tamaño que nos diga el usuario*/
+/*vamos a hacer un programa que dibuje un bello cuadrado del tamaÃ±o que nos diga el usuario*/
 int main (){
     //definicion de variables
     char salir;
