@@ -7,4 +7,4 @@ void devuelve_suma(int num1, int num2, int num3){ //Funcion
 int main (){
     //cuerpo principal
     
-    return (ø);
+    return (Ã¸);
